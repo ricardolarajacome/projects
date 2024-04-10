@@ -4,7 +4,7 @@
 <h2 style="text-align: justify;">Budget vs. Expenditures Over Time:</h2>
 <p style="text-align: justify;">This dashboard offers users a comprehensive overview of departmental spending trends, highlighting instances of budgetary overspending or underspending. Interactive features allow users to hover over specific departments to view quarterly expenditure trends from 2018 to 2019. Notably, the Capital Area Workforce Development department exceeded its budget for FY2019 in April, as illustrated in the bar chart.</p>
 
-<img src="projects/WakeCounty1.gif" alt="GIF 1">
+<img src="WakeCounty1.gif" alt="GIF 1">
 
 <h2 style="text-align: justify;">Enhanced User Experience with Progressive Disclosure:</h2>
 <p style="text-align: justify;">To streamline user interaction and minimize cognitive load, a toggle button has been incorporated to hide the departmental expenditure table when not immediately relevant to the user's analysis. This approach promotes clarity and enables users to focus on pertinent information.</p>
