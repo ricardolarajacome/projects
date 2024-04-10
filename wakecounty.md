@@ -1,4 +1,4 @@
-<h3 style="text-align: justify;">Wake County: Budget vs. Expenditures Over Time:</h3>
+<h1 style="text-align: justify;">Wake County: Budget vs. Expenditures Over Time:</h1>
 <p style="text-align: justify;">The Wake County Watchdog team aims to provide insight into fiscal management by presenting a detailed analysis of expenditures against budget allocations for the current fiscal year. To ensure accessibility and inclusivity, a Power BI theme named "Colorblind safe" was implemented, addressing the needs of individuals with color vision deficiencies. For further information on this theme, refer to <a href="https://learn.microsoft.com/en-us/power-bi/create-reports/desktop-report-themes" target="_blank">Microsoft's official documentation on Power BI report themes</a>.</p>
 
 <h2 style="text-align: justify;">Budget vs. Expenditures Over Time:</h2>
