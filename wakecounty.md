@@ -24,6 +24,6 @@
 <h2 style="text-align: justify;">Optimized User Engagement with Mobile Layout:</h2>
 <p style="text-align: justify;">Recognizing the importance of accessibility across various devices, a mobile-friendly layout has been developed to ensure seamless interaction with the dashboard, even on smaller screens. This layout preserves the principles of progressive disclosure, maintaining a user-centric approach to data exploration and analysis.</p>
 
-<img src="WakeCounty.5gif" alt="GIF 5">
+<img src="WakeCounty5.gif" alt="GIF 5">
 
 <p style="text-align: justify;">By implementing these strategies, the Wake County Watchdog team endeavors to deliver a sophisticated and user-centric data analytics platform, facilitating informed decision-making and fostering collaboration among stakeholders.</p>
