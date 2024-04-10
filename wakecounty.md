@@ -9,21 +9,21 @@
 <h2 style="text-align: justify;">Enhanced User Experience with Progressive Disclosure:</h2>
 <p style="text-align: justify;">To streamline user interaction and minimize cognitive load, a toggle button has been incorporated to hide the departmental expenditure table when not immediately relevant to the user's analysis. This approach promotes clarity and enables users to focus on pertinent information.</p>
 
-<img src="projects/WakeCounty2.gif" alt="GIF 2">
+<img src="WakeCounty2.gif" alt="GIF 2">
 
 <h2 style="text-align: justify;">Streamlined Data Exploration:</h2>
 <p style="text-align: justify;">Users can effortlessly navigate through key data insights by utilizing intuitive navigation buttons located at the bottom of the dashboard. These buttons facilitate access to detailed breakdowns of expenditures over time, expenditures by fund, and expenditures by expense type, enhancing data exploration efficiency.</p>
 
-<img src="projects/WakeCounty3.gif" alt="GIF 3">
+<img src="WakeCounty3.gif" alt="GIF 3">
 
 <h2 style="text-align: justify;">Advanced Analytical Capabilities:</h2>
 <p style="text-align: justify;">The inclusion of a Q&amp;A visual under the Major Facilities section empowers users to conduct in-depth inquiries into the dataset, such as determining the average cost of expenses for firefighters based on expenditure line items. Additionally, a dynamic tree map visualizes expenditure amounts by type, accompanied by a comprehensive table featuring date, activity, and expenditure details.</p>
 
-<img src="projects/WakeCounty4.gif" alt="GIF 4">
+<img src="WakeCounty4.gif" alt="GIF 4">
 
 <h2 style="text-align: justify;">Optimized User Engagement with Mobile Layout:</h2>
 <p style="text-align: justify;">Recognizing the importance of accessibility across various devices, a mobile-friendly layout has been developed to ensure seamless interaction with the dashboard, even on smaller screens. This layout preserves the principles of progressive disclosure, maintaining a user-centric approach to data exploration and analysis.</p>
 
-<img src="projects/WakeCounty.5gif" alt="GIF 5">
+<img src="WakeCounty.5gif" alt="GIF 5">
 
 <p style="text-align: justify;">By implementing these strategies, the Wake County Watchdog team endeavors to deliver a sophisticated and user-centric data analytics platform, facilitating informed decision-making and fostering collaboration among stakeholders.</p>
